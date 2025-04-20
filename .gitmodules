@@ -1,15 +1,15 @@
 [submodule "tinyusb"]
 	path = lib/tinyusb
-	url = https://github.com/hathach/tinyusb.git
+	url = git@github.com:jduquesa/tinyusb.git
 [submodule "lib/cyw43-driver"]
 	path = lib/cyw43-driver
-	url = https://github.com/georgerobotics/cyw43-driver.git
+	url = git@github.com:jduquesa/cyw43-driver.git
 [submodule "lib/lwip"]
 	path = lib/lwip
-	url = https://github.com/lwip-tcpip/lwip.git
+	url = git@github.com:jduquesa/lwip.git
 [submodule "lib/mbedtls"]
 	path = lib/mbedtls
-	url = https://github.com/Mbed-TLS/mbedtls.git
+	url = git@github.com:jduquesa/mbedtls.git
 [submodule "lib/btstack"]
 	path = lib/btstack
-	url = https://github.com/bluekitchen/btstack.git
+	url = git@github.com:jduquesa/btstack.git
