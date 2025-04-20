@@ -1,15 +1,15 @@
 [submodule "tinyusb"]
 	path = lib/tinyusb
-	url = git@github.com:jduquesa/tinyusb.git
+	url = git@jorgeduque80:jeduquesa/tinyusb.git
 [submodule "lib/cyw43-driver"]
 	path = lib/cyw43-driver
-	url = git@github.com:jduquesa/cyw43-driver.git
+	url = git@jorgeduque80:jeduquesa/cyw43-driver.git
 [submodule "lib/lwip"]
 	path = lib/lwip
-	url = git@github.com:jduquesa/lwip.git
+	url = git@jorgeduque80:jeduquesa/lwip.git
 [submodule "lib/mbedtls"]
 	path = lib/mbedtls
-	url = git@github.com:jduquesa/mbedtls.git
+	url = git@jorgeduque80:jeduquesa/mbedtls.git
 [submodule "lib/btstack"]
 	path = lib/btstack
-	url = git@github.com:jduquesa/btstack.git
+	url = git@jorgeduque80:jeduquesa/btstack.git
